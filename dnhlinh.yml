@@ -1,0 +1,24 @@
+about:
+  name: Linh Do 
+  location: "Utica, NY" 
+  timezone: UTC-04
+  hobbies:
+    # can't be related to your job
+    - "Traveling, food, taking pictures, and playing ukulele"
+  favorite_resources:
+    - "Google.com"
+    - "Great people in the world"
+ # be a mentor
+ bam:
+   skills:
+    - Listening and contributing
+    - Critical thinking
+    - Time management
+    - Respecting and embracing the differences
+   language/paradigms:
+    # Specify ["what", 1], level 1-10 (1 being justed learned, 10 you wrote/contributed to the language)
+    - ["Python", 8]
+    - ["C", 6]
+    - ["C++",6]
+    frameworks/libraries/concepts:
+      # list in order of most recent
