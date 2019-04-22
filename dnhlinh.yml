@@ -17,7 +17,7 @@ about:
     - "Respecting and embracing the differences"
    language/paradigms:
     # Specify ["what", 1], level 1-10 (1 being justed learned, 10 you wrote/contributed to the language)
-    - ["Python", 8]
+    - ["Python", 7]
     - ["C", 6]
     - ["C++",6]
     frameworks/libraries/concepts:
