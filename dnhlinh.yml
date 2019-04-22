@@ -11,10 +11,10 @@ about:
  # be a mentor
  bam:
    skills:
-    - Listening and contributing
-    - Critical thinking
-    - Time management
-    - Respecting and embracing the differences
+    - "Listening and contributing"
+    - "Critical thinking"
+    - "Time management"
+    - "Respecting and embracing the differences"
    language/paradigms:
     # Specify ["what", 1], level 1-10 (1 being justed learned, 10 you wrote/contributed to the language)
     - ["Python", 8]
@@ -22,3 +22,19 @@ about:
     - ["C++",6]
     frameworks/libraries/concepts:
       # list in order of most recent
+      - None
+# seek a mentor
+sam:
+  skills:
+    - "Have a good knowledge of (a) specific language(s)"
+    - "Listen to different ideas"
+    - "Have a good explanation skills"
+  languages/paradigms:
+    - Javascript
+    - Swift
+    - Ruby
+  frameworks/libraries/concepts:
+    - None
+
+  
+   
