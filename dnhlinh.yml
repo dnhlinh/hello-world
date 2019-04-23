@@ -22,7 +22,8 @@ about:
     - ["C++",6]
     frameworks/libraries/concepts:
       # list in order of most recent
-      - None
+      - putty
+      - Wing IDE
 # seek a mentor
 sam:
   skills:
