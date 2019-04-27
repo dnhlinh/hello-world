@@ -34,5 +34,6 @@ sam:
     - Javascript
     - Swift
     - Ruby
+    - SQL
   frameworks/libraries/concepts:
     - None
